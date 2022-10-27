@@ -1,4 +1,4 @@
-e# Desafio de HTML para DIO (NTT DATA Diversidade em Tech)
+# Desafio de HTML para DIO (NTT DATA Diversidade em Tech)
 
 ## Repositório para o desafio de HTML para DIO
 Professor: Diogo Mainardes
