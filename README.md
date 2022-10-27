@@ -14,6 +14,6 @@ Professor: Diogo Mainardes
 - Criar o título e os subtítulos da página;
 - Criar uma linha separadora do título com o conteúdo da página;
 - Criar um índice para referências;
-- Colocar no final link de matérias sobre HTML e tags.
+- Colocar, no final, link de matérias sobre HTML e tags.
 
 
