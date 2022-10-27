@@ -1,4 +1,4 @@
-# Desafio de HTML para DIO (NTT DATA Diversidade em Tech)
+e# Desafio de HTML para DIO (NTT DATA Diversidade em Tech)
 
 ## Repositório para o desafio de HTML para DIO
 Professor: Diogo Mainardes
@@ -14,6 +14,7 @@ Professor: Diogo Mainardes
 - Criar o título e os subtítulos da página;
 - Criar uma linha separadora do título com o conteúdo da página;
 - Criar um índice para referências;
-- Colocar, no final, link de matérias sobre HTML e tags.
+- Colocar, no final, links das referências.
+
 
 
